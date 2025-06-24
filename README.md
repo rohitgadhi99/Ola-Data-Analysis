@@ -143,13 +143,22 @@ Business Insight: It is a service quality metric which provides an overview of s
    - Overall summary page showing KPIs such as Total bookings, Total booking value, Booking status breakdown and Ride volume over 
 
 ### Page2:
-   - Overall summary page showing KPIs such as Total bookings, Total booking value, Booking status breakdown and Ride volume over
+   - Visualized the booking values and the ride distance travelled by each vehicle type in a table
      
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page2%20Ola%20dashboard.png)
 
+### Page3:
+   - Revenue by payment method, top 5 customers by their booking value and ride distance by day
+
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page3%20Ola%20dashboard.png)
 
+### Page4:
+   - Cancelled bookings, cancellation rate, cancellation by customer and driver with their respective reasons
+     
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page4%20Ola%20dashboard.png)
+
+### Page5:
+   - Overall customer and driver rationgs by vehicle type
 
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page5%20Ola%20dashboard.png)
 
