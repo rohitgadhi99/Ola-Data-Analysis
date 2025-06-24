@@ -137,4 +137,20 @@ FROM bookings;
 Business Insight: It is a service quality metric which provides an overview of system/service failures. High incomplete ride % may point to app bugs, location mismatches, driver delays, etc. Helps identify areas needing tech or operational fixes.
 
 
+## Power BI Dashboard
+
+
+![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page2%20Ola%20dashboard.png)
+
+![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page3%20Ola%20dashboard.png)
+
+![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page4%20Ola%20dashboard.png)
+
+![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page5%20Ola%20dashboard.png)
+
+
+
+
+
+
 
