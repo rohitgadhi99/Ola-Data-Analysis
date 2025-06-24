@@ -7,7 +7,7 @@
 This project is an end-to-end data analysis of Ola ride bookings data, focusing on booking patterns, cancellations, customer behavior, and vehicle performance. The goal is to derive actionable business insights from raw data using Excel (data cleaning), SQL (analysis), and Power BI (visualization) — simulating a real-world data analyst workflow.
 
 ### Data Setup and Cleaning
-   - Generated this Bengaluru city Ola rides dataset `Bookings` using ChatGPT prompt (prompt give in document)
+   - Generated this Bengaluru city Ola rides (for the month of July 2024) dataset `Bookings` using ChatGPT prompt (prompt give in document)
    - Using Excel – Performed Data Cleaning & Prepared for analysis
 
 ### Solving Business problems
@@ -139,7 +139,12 @@ Business Insight: It is a service quality metric which provides an overview of s
 
 ## Power BI Dashboard
 
+### Page1: Shown on top
+   - Overall summary page showing KPIs such as Total bookings, Total booking value, Booking status breakdown and Ride volume over 
 
+### Page2:
+   - Overall summary page showing KPIs such as Total bookings, Total booking value, Booking status breakdown and Ride volume over
+     
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page2%20Ola%20dashboard.png)
 
 ![Project Pipeline](https://github.com/rohitgadhi99/Ola-Data-Analysis/blob/main/Page3%20Ola%20dashboard.png)
